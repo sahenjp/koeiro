@@ -11,7 +11,7 @@ import time
 from PySide6.QtCore import QEvent, Qt, QTimer
 from PySide6.QtGui import QCloseEvent
 from PySide6.QtWidgets import (QApplication, QButtonGroup, QComboBox, QFormLayout, QHBoxLayout,
-                               QCheckBox, QFrame, QLabel, QLayout, QLineEdit, QMainWindow, QMessageBox,
+                               QCheckBox, QFrame, QLabel, QLineEdit, QMainWindow,
                                QPushButton, QScrollArea, QSizePolicy, QSlider,
                                QVBoxLayout, QWidget, QDoubleSpinBox, QSpinBox)
 
